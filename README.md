@@ -17,8 +17,8 @@
 ## WorkTime
 
 - start: 20240416
-- end  : 20240421
-- time : about 24h
+- end: 20240421
+- time: about 24h
 
 ## Result
 
